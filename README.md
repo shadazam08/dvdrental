@@ -8,7 +8,7 @@ To load this file, follow these steps:"
 create dasbase dvdrental
 ```
 
-This will create the sample DB. Then, you'll need to run pg_restore. If you're on windows this is in `C:\>cd C:\Program Files\PostgreSQL\9.3\bin` (make sure your version is correct).
+This will create the sample DB. Then, you'll need to run pg_restore. If you're on windows this is in `C:\Program Files\PostgreSQL\16\bin` (make sure your version is correct).
 
 If the bin is in your path, you should be able to run `pg_restor` straight away.
 
